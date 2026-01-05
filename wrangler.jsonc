@@ -1,7 +1,7 @@
 {
   // Wrangler config for Cloudflare Workers / static assets.
   // Frontend-only deployment - no custom routes or account_id needed
-  "name": "gg-site",
+  "name": "city-end",
   "compatibility_date": "2026-01-05",
   "workers_dev": true,
   // Use `assets.directory` so `wrangler` uploads your `dist` folder during deploy
