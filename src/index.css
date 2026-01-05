@@ -1,0 +1,20 @@
+@import url('https://fonts.cdnfonts.com/css/satoshi');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kumar+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import "tailwindcss";
+
+body {
+    font-family: 'Satoshi', sans-serif;
+  }
+
+.tick, .texx {
+  font-family: "Lobster", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+  
+.end , .te{
+    font-family: "Kumar One", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
